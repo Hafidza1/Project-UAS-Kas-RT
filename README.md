@@ -1,13 +1,16 @@
-| Nama  | Oktovan Agung Shailendra|
-|-------|-------------------------|
-|NIM    | 312010131               |
-|Kelas  | TI.20.A.1               |
+## Link Kas RT
 
-# UAS Pemrograman Web Semester 4 <br> Dosen Pembimbing : Agung Nugroho,S.Kom.,M.Kom., <br> Membuat Aplikasi Pengelolaan Iuran Kas RT
+https://iurankasrtkelompok3.000webhostapp.com/
 
-# Link
-## [Video Dokumentasi](https://youtu.be/PrW8x6spSm8)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PrW8x6spSm8/0.jpg)](https://youtu.be/PrW8x6spSm8)
+## Data Warga
 
-## [Demo Program](http://uas-kasrt.42web.io/?i=1)
+<img width="955" alt="image" src="https://github.com/Hafidza1/Project-UAS-Kas-RT-master/assets/115520666/37ecc39d-1030-4759-a8c2-48a6ed9c86bc">
+
+## Data Iuran Warga
+
+<img width="958" alt="image" src="https://github.com/Hafidza1/Project-UAS-Kas-RT-master/assets/115520666/5d6f8b7d-edad-47be-b0be-b3d6b2688f4a">
+
+## Laporan Data Warga
+
+<img width="947" alt="image" src="https://github.com/Hafidza1/Project-UAS-Kas-RT-master/assets/115520666/b2aa752a-a35a-4150-ae7a-33994cf2f488">
