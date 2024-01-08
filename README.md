@@ -1,7 +1,19 @@
-## Link Kas RT
+# Iuran Kas RT Kelompok 3
 
-https://iurankasrtkelompok3.000webhostapp.com/
+| NAMA  | NIM |
+| --- | --- |
+| Abiyanfaras Danuyasa     | 312210103 |
+| Birrham Efendi Lubis   | 312210272 |
+| Hafidza Dafariz Mujizat   | 312210276 |
 
+| KELAS :| TI.22.A2 |
+| --- | --- |
+
+| DOSEN PENGAMPU :| Agung Nugroho, S.Kom., M.Kom |
+| --- | --- |
+
+| MATA KULIAH  :| Pemrograman Web |
+| --- | --- |
 
 ## Data Warga
 
@@ -19,5 +31,8 @@ https://iurankasrtkelompok3.000webhostapp.com/
 
 https://youtu.be/enupJQbnkN0
 
+## Link Web Hosting
+
+https://iurankasrtkelompok3.000webhostapp.com/
 
 TERIMA KASIH
