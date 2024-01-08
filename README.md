@@ -14,3 +14,5 @@ https://iurankasrtkelompok3.000webhostapp.com/
 ## Laporan Data Warga.
 
 <img width="947" alt="image" src="https://github.com/Hafidza1/Project-UAS-Kas-RT-master/assets/115520666/b2aa752a-a35a-4150-ae7a-33994cf2f488">
+
+TERIMA KASIH
